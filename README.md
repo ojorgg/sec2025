@@ -127,3 +127,12 @@ A seguir, uma lista dos principais endpoints disponíveis:
         ```
 ## Estrutura do Projeto
 O projeto segue a estrutura padrão de aplicações Spring Boot, com os principais pacotes organizados da seguinte forma:
+   ```
+      ifsp.pep.vsec.api_inscricoes  # Pacote raiz da aplicação
+      ├── controller                # Controladores REST
+      ├── service                   # Camada de serviços (lógica de negócios)
+      ├── repository                # Repositórios Spring Data JPA
+      ├── model                     # Entidades JPA (modelo de domínio)
+      ├── dto                       # Data Transfer Objects
+      └── ApiInscricoesApplication.java # Classe principal da aplicação Spring Boot
+   ```
