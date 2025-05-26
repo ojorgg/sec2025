@@ -1,6 +1,12 @@
-# V SEC - 2025: API de Inscrições em Cursos
+# V SEC - 2025: Criando uma API REST com Spring Boot: Do Zero à Produção
 
-Este projeto consiste no desenvolvimento de uma API REST utilizando Spring Boot, voltada para o gerenciamento de alunos, cursos e inscrições em cursos.
+Este repositório visa o armazenamento de códigos e materiais de estudo do curso de Spring Boot da SEC 2025
+
+## Notion
+
+Aqui você pode encontrar uma descrição bem mais detalhada sobre o projeto e a instalação ou desenvolvimento do mesmo.
+[Abrir instruções no Notion](https://jorgg.notion.site/sec2025)
+
 
 ## Tecnologias Utilizadas
 * Java (versão 17 ou superior, conforme utilizado no Spring Initializr)
